@@ -1,3 +1,5 @@
+> Archived: This repository is preserved for historical/reference purposes and is no longer maintained.
+
 # BERT-ML.NET
 Question and Answering (Q&A) BERT model implementation for ML.NET.
 
